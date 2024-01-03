@@ -32,7 +32,7 @@ SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 [compat]
 AbstractFFTs = "0.4, 0.5, 1.0"
 Adapt = "3.3"
-BFloat16s = "0.2, 0.3, 0.4"
+BFloat16s = "0.2, 0.3, 0.4, 0.5"
 CEnum = "0.2, 0.3, 0.4"
 CUDA_Driver_jll = "0.2"
 CUDA_Runtime_Discovery = "0.1"
